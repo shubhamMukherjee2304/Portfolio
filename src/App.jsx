@@ -28,7 +28,7 @@ export default function Portfolio() {
       {/* About Section */}
       <section className="py-20 px-6 bg-gray-900 text-gray-200">
         <div className="max-w-4xl mx-auto grid md:grid-cols-3 gap-10 items-center">
-          <img src="/public/21004063.jpg" alt="About me" className="rounded-xl w-60 h-60 mx-auto" />
+          <img src="/21004063.jpg" alt="About me" className="rounded-xl w-60 h-60 mx-auto" />
           <div className="md:col-span-2 space-y-4">
             <h2 className="text-3xl font-semibold">About Me</h2>
             <p>
@@ -103,7 +103,7 @@ export default function Portfolio() {
         <h2 className="text-4xl text-center font-semibold mb-12">Projects</h2>
         <div className="space-y-16 max-w-6xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center md:[&>*:nth-child(1)]:order-1md:grid md:grid-cols-2 gap-10 items-center">
-            <img src="/public/ttt.png" alt="Project 1" className="rounded-xl shadow-lg" />
+            <img src="/ttt.png" alt="Project 1" className="rounded-xl shadow-lg" />
             <div>
               <h3 className="text-2xl"><span className="font-bold">TaskTrek</span> <span className="text-xl">– AI-powered project management platform</span></h3>
               <p className="text-xl"><span className="font-bold">Tech Stack</span> -  Node.js, React.js, Firebase, Clerk, Gemini AI</p>
@@ -117,7 +117,7 @@ export default function Portfolio() {
           </div>
           {/* Alternate layout */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center md:[&>*:nth-child(1)]:order-1 md:[&>*:nth-child(2)]:order-2">
-            <img src="/public/hst.png" alt="Project 2" className="rounded-xl shadow-lg" />
+            <img src="/hst.png" alt="Project 2" className="rounded-xl shadow-lg" />
             
             <div>
               <h3 className="text-2xl"><span className="font-bold">HostHive</span> <span className="text-xl">– Cloud-native code hosting and deployment platform</span></h3>
@@ -134,7 +134,7 @@ export default function Portfolio() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center md:[&>*:nth-child(1)]:order-1 md:[&>*:nth-child(2)]:order-2">
-            <img src="/public/mfr.png" alt="Project 1" className="rounded-xl shadow-lg" />
+            <img src="/mfr.png" alt="Project 1" className="rounded-xl shadow-lg" />
             <div className="">
               <h3 className="text-2xl"><span className="font-bold"> MyFarm</span><span className="text-xl">– Marketplace for farm produce</span> </h3>
               <p className="text-xl"><span className="font-bold">Tech Stack</span> -  React.js, Node.js, MongoDB, Tailwind CSS</p>
@@ -149,7 +149,7 @@ export default function Portfolio() {
 
           {/* Alternate layout */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center md:[&>*:nth-child(1)]:order-1 md:[&>*:nth-child(2)]:order-2">
-            <img src="/public/poly.png" alt="Project 2" className="rounded-xl shadow-lg" />
+            <img src="/poly.png" alt="Project 2" className="rounded-xl shadow-lg" />
             <div>
               <h3 className="text-2xl"><span className="font-bold"> PolyScale</span><span className="text-xl"> – Microservices-based inventory management</span></h3>
               <p className="text-xl"><span className="font-bold">Tech Stack</span> -  Go, GraphQL, gRPC, PostgreSQL, Docker, Elasticsearch</p>
@@ -174,13 +174,13 @@ export default function Portfolio() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto">
 
           <div className="bg-gray-800 p-3 rounded-xl text-center shadow-lg">           
-            <img src="/public/aa1.png" alt="Award" className="w-60 h-50 mx-auto mb-4" />
+            <img src="/aa1.png" alt="Award" className="w-60 h-50 mx-auto mb-4" />
             <h4 className="text-xl font-bold">1st Place – Cryptec Coding Battle (DSA) – NMIT</h4>
             
           </div>
 
           <div className="bg-gray-800 p-3 rounded-xl text-center shadow-lg">
-            <img src="/public/aa2.png" alt="Award" className="w-60 h-50 mx-auto mb-4" />
+            <img src="/aa2.png" alt="Award" className="w-60 h-50 mx-auto mb-4" />
             <h4 className="text-xl font-bold">2nd Place – CodeSprint Hackathon – Google Developer Student Clubs (GDSC)</h4>
             
           </div>
@@ -188,7 +188,7 @@ export default function Portfolio() {
           
 
           <div className="bg-gray-800 p-3 rounded-xl text-center shadow-lg">
-            <img src="/public/aa3.png" alt="Award" className="w-60 h-40 mx-auto mb-4" />
+            <img src="/aa3.png" alt="Award" className="w-60 h-40 mx-auto mb-4" />
             <h4 className="text-xl font-bold">Finalist – SheCodes Hackathon – Reva University</h4>
             
           </div>

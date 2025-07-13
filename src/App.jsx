@@ -8,7 +8,7 @@ export default function Portfolio() {
       {/* Landing Section */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-4">
         <motion.img
-          src="/public/pp2.jpeg"
+          src="/pp2.jpeg"
           alt="Profile"
           className="w-50 h-60 rounded-2xl border-4 border-white shadow-xl mb-6"
           initial={{ scale: 0 }}
